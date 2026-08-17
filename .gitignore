@@ -207,7 +207,7 @@ __marimo__/
 src/inspect_petri/_version.py
 
 # Inspect logs and scans
-/logs/
+# /logs/  # un-ignored: eval logs included for reproducibility
 /logs-*/
 /scans/
 /transcripts/
