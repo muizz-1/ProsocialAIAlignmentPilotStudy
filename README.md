@@ -164,6 +164,8 @@ cd "results qualitative"
 python extract_summaries.py logs/YOUR_LOGFILE.eval
 ```
 
+## Results
+My results are available in the "Qualitative Results" folder and the "Quantitative Results" folder
 ## Limitations
 
 - **Small sample size** (n=20 per arm) — underpowered for strong statistical claims
